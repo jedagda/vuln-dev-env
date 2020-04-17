@@ -1,0 +1,3 @@
+[submodule "docker-iot-cluster"]
+	path = docker-iot-cluster
+	url = https://github.com/jedagda/docker-iot-cluster
